@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mong
+- 👋 Hi, I’m Mong
 - 👀 I’m interested in talented candidates
 - 🌱 I’m currently learning how to use Github for my searching of potential candidates
 
